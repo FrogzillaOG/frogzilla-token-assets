@@ -1,0 +1,12 @@
+{
+  "name": "FrogZilla",
+  "symbol": "FROGZ",
+  "description": "FROGZILLA – Solana’s wildest meme coin. Backed by community, fueled by raids, and forged for culture.",
+  "image": "https://raw.githubusercontent.com/FrogzillaOG/frogzilla-token-assets/main/frogzilla-logo.png.png",
+  "extensions": {
+    "website": "https://frogzillaoffical.com",
+    "twitter": "https://x.com/frogzilla_og",
+    "discord": "https://discord.gg/4pAznADf",
+    "whitepaper": "https://raw.githubusercontent.com/FrogzillaOG/frogzilla-token-assets/main/frogzilla_whitepaper_v1.1.pdf"
+  }
+}
